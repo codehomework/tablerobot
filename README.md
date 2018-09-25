@@ -1,4 +1,4 @@
-# TableRobot: Move a Robot on a Tabletop in Ruby
+# TableRobot: a Ruby tabletop robot in 3 hours
 Hello, and thank you for reviewing my code homework for the engineering team. I appreciate the opportunity to audition with you guys.
 
 All work is my own. No robots were harmed in the making of this code. 😇
@@ -127,4 +127,4 @@ I am happy with my result. I aimed to demonstrate that I can take architectural 
 
 Thanks for reading!
 
-![Alt Text](https://media.giphy.com/media/3o7TKzwNrZaIUuMn16/giphy.gif)
+![Alt Text](https://media.giphy.com/media/3ohs7M2llDej8uvp3W/giphy.gif)
