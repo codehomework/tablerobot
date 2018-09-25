@@ -5,6 +5,7 @@ All work is my own. No robots were harmed in the making of this code. 😇
 
 ## 🎓 The Assignment
 *Note: This assignment was provided by the company. I am including it here verbatim.*
+
 This take-home exercise consists of has been modified to be 1 question. You should time box the exercise to take no more than 3 hours total. During the interview, you should be able to demo your application, run your tests and explain your choices. If you are unable to demo the application or complete the assignment, you should be ready to explain what might have gone wrong and what the problems were. When you feel the assignment is complete, send us a link to your code on GitHub, or you may zip the code and send via e-mail. Please feel free to reach out if you have any questions!
 
 ### Specification
